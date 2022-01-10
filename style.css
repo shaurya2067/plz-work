@@ -1,0 +1,79 @@
+#tit{
+    color:blanchedalmond;
+    font-weight:bold;
+    font-style:italic;
+}
+#infontygar{
+    font-size:20px;
+    font-style:italic;
+    font-weight:bold;
+    color:rgba(255, 0, 0, 0.945);
+    
+}
+.infoland{
+    font-size:15px;
+    color:saddlebrown;
+    font-weight:bold;
+    font-style:italic;
+    
+}
+#cont{
+height:100%;
+width:100%;
+}
+
+
+#managel{
+    font-size:20px;
+    color:orange;
+   
+}
+#img4{
+    height:200px;
+    width:200px;
+}
+#img3{
+    height:200px;
+    width:200px;
+}
+#img2{
+    height:200px;
+    width:200px;
+}
+#img1{
+    height:200px;
+    width:200px; 
+}
+#ll{
+   
+    height:600px;
+}
+#bor{
+    font-size:20px;
+    color:green;
+    font-weight:bold;
+}
+#wg{
+    height:700px;
+    
+}
+#img5{
+    height:200px;
+    width:200px;
+}
+#img6{
+    height:200px;
+    width:200px;
+}
+.num{
+    font-weight:bold;
+    text-align:right;
+    color:palegreen;
+}
+#img7{
+    width:200px;
+    height:200px;
+}
+body{
+    background-color: orange;
+}
